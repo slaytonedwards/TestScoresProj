@@ -1,0 +1,13 @@
+c:\users\slayt\onedrive\documents\visual studio 2015\Projects\TestScoresProj\TestScoresProj\bin\Debug\TestScoresProj.exe.config
+c:\users\slayt\onedrive\documents\visual studio 2015\Projects\TestScoresProj\TestScoresProj\obj\Debug\TestScoresProj.csprojResolveAssemblyReference.cache
+C:\Users\slayt\onedrive\documents\visual studio 2015\Projects\TestScoresProj\TestScoresProj\bin\Debug\TestScoresProj.exe
+C:\Users\slayt\onedrive\documents\visual studio 2015\Projects\TestScoresProj\TestScoresProj\bin\Debug\TestScoresProj.pdb
+C:\Users\slayt\onedrive\documents\visual studio 2015\Projects\TestScoresProj\TestScoresProj\obj\Debug\TestScoresProj.exe
+C:\Users\slayt\onedrive\documents\visual studio 2015\Projects\TestScoresProj\TestScoresProj\obj\Debug\TestScoresProj.pdb
+E:\C# Class\TestScoresProj\TestScoresProj\bin\Debug\TestScoresProj.exe.config
+E:\C# Class\TestScoresProj\TestScoresProj\obj\Debug\TestScoresProj.exe
+E:\C# Class\TestScoresProj\TestScoresProj\obj\Debug\TestScoresProj.pdb
+E:\C# Class\TestScoresProj\TestScoresProj\bin\Debug\TestScoresProj.exe
+E:\C# Class\TestScoresProj\TestScoresProj\bin\Debug\TestScoresProj.pdb
+E:\C# Class\TestScoresProj\TestScoresProj\obj\Debug\TestScoresProj.csprojAssemblyReference.cache
+E:\C# Class\TestScoresProj\TestScoresProj\obj\Debug\TestScoresProj.csproj.CoreCompileInputs.cache
